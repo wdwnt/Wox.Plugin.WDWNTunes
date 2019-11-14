@@ -1,0 +1,12 @@
+{
+  "ID": "6995447050b84cdf9894612ecf89c22f",
+  "ActionKeyword": "nt",
+  "Name": "WDWNTunes",
+  "Description": "See what's currently playing on WDWNTunes",
+  "Author": "WDWNT",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/wdwnt/Wox.Plugin.WDWNTunes",
+  "IcoPath": "Images\\ntunes.png",
+  "ExecuteFileName": "Wox.Plugin.WDWNTunes.dll"
+}
